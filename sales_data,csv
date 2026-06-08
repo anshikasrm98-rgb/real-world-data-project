@@ -1,0 +1,5 @@
+OrderID,Product,Sales,Quantity,Region
+1001,Laptop,1200,1,West
+1002,Mouse,25,2,East
+1003,Keyboard,50,1,South
+
